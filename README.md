@@ -18,6 +18,9 @@ The Netflix clone website is built using the following technologies:
 -   JavaScript: For implementing interactive features and form validation.
 
 ## Screenshots
+<img width="1425" alt="Screenshot_Homepage" src="https://github.com/Shamss35/Netflix-Clone/assets/99024751/23629b18-1953-4b93-8f85-bf97fb548cc0">
+<img width="1424" alt="Screenshot_Middlepage" src="https://github.com/Shamss35/Netflix-Clone/assets/99024751/9d0b0dd3-4b62-47c5-9c9c-4bf1d1cb2114">
+<img width="1423" alt="Screenshot-Endpage" src="https://github.com/Shamss35/Netflix-Clone/assets/99024751/42fa15fc-8896-424d-a397-5ecdd06c5bb3">
 
 ## Credits
 
