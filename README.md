@@ -1,6 +1,6 @@
 
 # Netflix Clone
-By Shamya Haria
+#By Shamya Haria
 
 This is a Netflix clone website that replicates the look and feel of the official Netflix login page. It serves as a demonstration and educational project to showcase web development skills and techniques.
 
